@@ -8,7 +8,7 @@ The goal is to develop an HR Analytics Dashboard that aggregates essential HR me
 
 # Report Snapshot 
 
-![Screenshot 2024-11-14 101433](https://github.com/user-attachments/assets/a2c73ae8-b8f9-4179-8ef5-4ec36ee4822e)
+![Screenshot 2024-12-30 161540](https://github.com/user-attachments/assets/3d46c26e-c026-4c29-a2af-a490d9a0204c)
 
 # Insights
 
